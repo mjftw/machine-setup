@@ -11,5 +11,6 @@ echo "Control key: ctrl-q"
 echo "Vertical split: ctrl-q |"
 echo "Horizontal split: ctrl-q \\"
 echo "Kill pane: ctrl-q x"
+echo "Maximise pane: ctrl-q z"
 echo "Mouse control: Enabled"
 echo
